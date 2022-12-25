@@ -34,7 +34,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "prettier": "prettier --trailing-comma es5 --write \"src/**/*.js\"",
-    "deploy": "gh-pages -d build",
     "add-contribs": "all-contributors add",
     "generate-contribs": "all-contributors generate"
   },
